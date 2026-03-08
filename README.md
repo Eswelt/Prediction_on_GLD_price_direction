@@ -11,7 +11,6 @@ This project asks a practical investing question:
 - `final_project.db`: SQLite database built by the notebook
 - `final_queries.sql`: SQL script used inside the workflow
 - `final_slides.pptx`: current slide deck
-- `slides_assets/`: figures exported for slides
 
 ## Data window used in the analysis
 
