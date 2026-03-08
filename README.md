@@ -29,7 +29,7 @@ This project asks a practical investing question:
    - compare threshold rules (F1 vs MCC),
    - export figures to `slides_assets/`.
 
-## Current takeaway (short version)
+## Current takeaway
 
 - We use **MCC** as the main decision metric because it balances TP/TN/FP/FN and is better aligned with directional reliability.
 - In this sample, the **text model** is more reliable out-of-sample than the **index-only model** under MCC-based selection.
