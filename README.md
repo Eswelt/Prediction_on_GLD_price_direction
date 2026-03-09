@@ -10,7 +10,7 @@ This project asks a practical investing question:
 - `articles.pq`: WSJ headlines dataset
 - `final_project.db`: SQLite database built by the notebook
 - `final_queries.sql`: SQL script used inside the workflow
-- `final_slides.pptx`: current slide deck
+- `final_slides.pdf`: current slide deck
 
 ## Data window used in the analysis
 
